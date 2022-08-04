@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 13px;
+}
+
+body{
+    background-color: #d4d6da;
+}
+.name-avatar-color-white{
+    color: hsl(210, 46%, 95%);
+    
+}
+.subname-avatar-color-gray , .testimonials{
+    color: hsl(217, 16%, 65%);
+}
+
+.span-testimonials-white{
+    color: hsl(0, 0%, 100%);
+    font-size: 20px;
+    font-weight: 500;
+}
+.span-testimonials-gray{
+    color: hsl(214, 13%, 31%);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.box1-big-color{
+    background-color: hsl(263, 55%, 52%);
+}
+.box4-big-color{
+    background-color:hsl(219, 29%, 14%);
+}
+.box2-small-color-gray{
+    background-color: hsl(217, 19%, 35%);
+}
+.box-color-white , .box-lateral-vertical{
+    background-color:hsl(0, 0%, 100%);
+}
+
+.image-avatar-box4{
+    border: 2px solid hsl(263, 55%, 52%);
+    border-radius: 50%;
+}
+
+.image-avatar-box1{
+    border: 2px solid hsl(264, 83%, 70%);
+    border-radius: 50%;
+}
+
+.image-avatar-box2 , .image-avatar-white{
+    border-radius: 50%;
+}
